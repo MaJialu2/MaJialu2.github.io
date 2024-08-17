@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>马嘉路个人博客</title>
-        <link>https://majilau2.github.io/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on 马嘉路个人博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Fri, 16 Aug 2024 22:25:00 +0800</lastBuildDate><atom:link href="https://majilau2.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 16 Aug 2024 22:25:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>First</title>
-        <link>https://majilau2.github.io/post/first/</link>
+        <link>http://localhost:1313/post/first/</link>
         <pubDate>Fri, 16 Aug 2024 22:25:00 +0800</pubDate>
         
-        <guid>https://majilau2.github.io/post/first/</guid>
-        <description>&lt;img src="https://majilau2.github.io/post/first/header.png" alt="Featured image of post First" /&gt;&lt;p&gt;just for test
-&lt;img src=&#34;https://majilau2.github.io/post/first/image.png&#34;
+        <guid>http://localhost:1313/post/first/</guid>
+        <description>&lt;img src="http://localhost:1313/post/first/header.png" alt="Featured image of post First" /&gt;&lt;p&gt;just for test
+&lt;img src=&#34;http://localhost:1313/post/first/image.png&#34;
 	width=&#34;438&#34;
 	height=&#34;222&#34;
-	srcset=&#34;https://majilau2.github.io/post/first/image_hu1793515167076184991.png 480w, https://majilau2.github.io/post/first/image_hu13884977002830247472.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/post/first/image_hu1793515167076184991.png 480w, http://localhost:1313/post/first/image_hu13884977002830247472.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
