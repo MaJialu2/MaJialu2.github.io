@@ -5,3 +5,6 @@ draft = false
 +++
 just for test
 ![](image.png)
+
+不显示图片是为什么
+

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/first/first/</loc>
+    <loc>http://localhost:1313/post/first/</loc>
     <lastmod>2024-08-16T22:25:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
