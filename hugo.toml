@@ -1,4 +1,5 @@
 baseURL = 'https://majilau2.github.io'
-languageCode = 'zh-cn'
+languageCode = 'en-us'
 title = '马嘉路个人博客'
 theme = 'hugo-theme-stack'
+avatar = 'img/my.png'
