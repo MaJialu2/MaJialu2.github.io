@@ -6,3 +6,4 @@ draft = false
 
 为啥我的头像没法显示
 ![](why.png)
+dsfdsf
