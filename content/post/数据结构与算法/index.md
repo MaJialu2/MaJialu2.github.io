@@ -1,11 +1,9 @@
----
-title: 数据结构与算法
-date: 2024-07-29 09:12:46
-tags: 数据结构 算法
-categories: 听课笔记
-cover: cover.webp
-top_img: top.png
----
++++
+title = '数据结构与算法'
+date = 2024-08-18T21:11:11+08:00
+draft = false
+
++++
 
 # 绪论
 

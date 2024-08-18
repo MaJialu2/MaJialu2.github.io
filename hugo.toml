@@ -2,4 +2,10 @@ baseURL = 'https://majilau2.github.io'
 languageCode = 'en-us'
 title = '马嘉路个人博客'
 theme = 'hugo-theme-stack'
-avatar = 'img/my.png'
+[params.sidebar]
+compact = false
+
+  [params.sidebar.avatar]
+  enabled = true
+  local = true
+  src = "img/my.png"
